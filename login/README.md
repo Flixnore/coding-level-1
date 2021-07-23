@@ -25,9 +25,9 @@ Example if-statment:
 
 ```
 if num > 9:
-	print("Double digits")
+    print("Double digits")
 else:
-	print("Single digits")
+    print("Single digits")
 ```
 
 Think about how conditional statments apply to a login. What two things do you need to compare? Which operator(s) will you use?
