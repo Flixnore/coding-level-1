@@ -8,7 +8,8 @@ Build a secure login that stores your deepest secrets, only revealed once the co
 $ python login.py
 Username: Felix
 Password: mintchocolatechip
-My deepest secret: Mint chocolate chip is the superior ice cream flavor.
+My deepest secret: 
+Mint chocolate chip is the superior ice cream flavor.
 ```
 
 ## Background Information
